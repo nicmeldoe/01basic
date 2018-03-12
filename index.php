@@ -11,6 +11,7 @@
         <script src="assets/js/main.js" type="text/javascript"></script>
     </head>
     <body>
+        
 	<h1>hghkjhldhf</h1>
         <label>Name
         <input class="form-control" type"text">
@@ -26,7 +27,7 @@
         <div class="col-sm-12 col-md-6">    
             <h3>testtext 2</h3>blllblbllblblbllblblblllblllllllllllllllllllllll
             lllllllllllllllllllllllllllllllllllllllllllllllllllllllllbllblbkblk
-            blkblkvlöklcjkkjckljkj
+            blkblkvlöklcjkkjckljkjtzuztut
         </div>
     </div>        
                </body>
